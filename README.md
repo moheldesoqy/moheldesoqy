@@ -1,8 +1,7 @@
 ### Hello!
-![Profile views](https://gpvc.arturio.dev/[YOUR_GITHUB_USERNAME])
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=[moheldesoqy]&layout=compact)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=[YOUR_GITHUB_USERNAME].[YOUR_GITHUB_USERNAME])
-
+<img src="https://myreadme.vercel.app/api/embed/moheldesoqy?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=moheldesoqy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
 
 # Mohamed Eldesoky - Software Developer
 
