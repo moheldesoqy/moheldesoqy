@@ -6,7 +6,7 @@
 
 # Mohamed Eldesoky - Software Developer
 
-Avid Software Developer specialized in Backend development, AWS Services & Software Development principles
+Passionate software developer specializing mainly in backend solutions using various modern technologies and tools, and actively reaching to gain more knowledge and build real-world skills!
 
 ## 🛠️ Technology Stack:
 
