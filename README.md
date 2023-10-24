@@ -26,9 +26,7 @@ Passionate software developer specializing mainly in backend solutions using var
 
 ## 📊 Stats:
 
-<img src="https://myreadme.vercel.app/api/embed/moheldesoqy?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=moheldesoqy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+<img src="https://widgetbite.com/stats/{moheldesoky}" alt="watching_count" />
 
 
 ## 📞 Socials
