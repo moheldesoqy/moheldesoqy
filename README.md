@@ -1,6 +1,8 @@
 ### Hello!
 ![Profile views](https://gpvc.arturio.dev/[YOUR_GITHUB_USERNAME])
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=[moheldesoqy]&layout=compact)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=[YOUR_GITHUB_USERNAME].[YOUR_GITHUB_USERNAME])
+
 
 # Mohamed Eldesoky - Software Developer
 
@@ -24,14 +26,15 @@ Avid Software Developer specialized in Backend development, AWS Services & Softw
 ![Algorithms](https://img.shields.io/badge/-Algorithms-000000?style=for-the-badge)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-000000?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 
 
 
 ## 📞 Socials
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/moheldesoqy)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-eldesoky1/)
 
-- [LinkedIn](https://linkedin.com/in/mohamed-eldesoky1)
 <!--
 **moheldesoqy/moheldesoqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
