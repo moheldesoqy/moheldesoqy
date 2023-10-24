@@ -1,7 +1,4 @@
 ### Hello!
-<img src="https://myreadme.vercel.app/api/embed/moheldesoqy?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=moheldesoqy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
 
 # Mohamed Eldesoky - Software Developer
 
@@ -27,7 +24,11 @@ Passionate software developer specializing mainly in backend solutions using var
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-000000?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
+## 📊 Stats:
 
+<img src="https://myreadme.vercel.app/api/embed/moheldesoqy?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=moheldesoqy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
 
 
 ## 📞 Socials
