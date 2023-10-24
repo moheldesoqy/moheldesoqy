@@ -26,7 +26,7 @@ Passionate software developer specializing mainly in backend solutions using var
 
 ## 📊 Stats:
 
-<img src="https://widgetbite.com/stats/{moheldesoky}" alt="watching_count" />
+<img src="https://widgetbite.com/stats/{moheldesoqy}" alt="watching_count" />
 
 
 ## 📞 Socials
