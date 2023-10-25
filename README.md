@@ -12,6 +12,9 @@
 
 
 🔧 Passionate software developer specializing mainly in backend solutions using various modern technologies and tools, and actively reaching to gain more knowledge and build real-world skills!
+
+
+
 🎓 Graduated in Computer Science from **PSUT**  
 🚀 Working at **PiXil Apps** as a Software Developer in Kuwait City         
 🌱 Enthusiastic about algorithms, data structures, and cloud integrations
