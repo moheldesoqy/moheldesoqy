@@ -16,7 +16,7 @@
 
 
 🎓 Graduated in Computer Science from **PSUT**  
-🚀 Working at **PiXil Apps** as a Software Developer in Kuwait City         
+🚀 Working at **PiXiL Apps** as a Software Developer in Kuwait City         
 🌱 Enthusiastic about algorithms, data structures, and cloud integrations
 
 ## 🛠️ Technology Stack:
