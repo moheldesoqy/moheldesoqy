@@ -1,8 +1,12 @@
-### Hello!
+### Hello there, I'm Mohamed Eldesoky 👋
 
-# Mohamed Eldesoky - Software Developer
+## 🔍 About Me
 
-Passionate software developer specializing mainly in backend solutions using various modern technologies and tools, and actively reaching to gain more knowledge and build real-world skills!
+🔧 Passionate software developer specializing mainly in backend solutions using various modern technologies and tools, and actively reaching to gain more knowledge and build real-world skills!
+
+🎓 Graduated in Computer Science from **PSUT**  
+🚀 Working at **PiXil Apps** as a Software Developer, in Kuwait City 
+🌱 Enthusiastic about algorithms, data structures, and cloud integrations
 
 ## 🛠️ Technology Stack:
 
@@ -29,10 +33,9 @@ Passionate software developer specializing mainly in backend solutions using var
 <img src="https://widgetbite.com/stats/{moheldesoqy}" alt="watching_count" />
 
 
-## 📞 Socials
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/moheldesoqy)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-eldesoky1/)
-
+## 🌍 Let's Connect!
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/moheldesoqy)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-eldesoky1/)
 <!--
 **moheldesoqy/moheldesoqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
