@@ -1,9 +1,17 @@
-### Hello there, I'm Mohamed Eldesoky 👋
-![whata][https://imgur.com/gBxP6oJ]
+<p align="center">
+  Hello there, I'm Mohamed Eldesoky 👋
+</p>
+
+
+<p align="center">
+  <img src="cs.gif" alt="Your GIF's Alt Text" />
+</p>
+
+
 ## 🔍 About Me
 
-🔧 Passionate software developer specializing mainly in backend solutions using various modern technologies and tools, and actively reaching to gain more knowledge and build real-world skills!
 
+🔧 Passionate software developer specializing mainly in backend solutions using various modern technologies and tools, and actively reaching to gain more knowledge and build real-world skills!
 🎓 Graduated in Computer Science from **PSUT**  
 🚀 Working at **PiXil Apps** as a Software Developer in Kuwait City         
 🌱 Enthusiastic about algorithms, data structures, and cloud integrations
