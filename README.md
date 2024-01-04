@@ -41,9 +41,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📊 Stats:
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moheldesoqy)](https://github.com/moheldesoqy/github-readme-stats)
 <img src="https://widgetbite.com/stats/{moheldesoqy}" alt="watching_count" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moheldesoqy)
 
 
 ## 🌍 Let's Connect!
