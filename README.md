@@ -43,7 +43,7 @@
 ## 📊 Stats:
 
 <img src="https://widgetbite.com/stats/{moheldesoqy}" alt="watching_count" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moheldesoqy)](https://github.com/moheldesoqy/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moheldesoqy)
 
 
 ## 🌍 Let's Connect!
