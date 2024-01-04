@@ -38,6 +38,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-000000?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Python](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📊 Stats:
 
